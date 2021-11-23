@@ -10,6 +10,7 @@
 7. 集成 **react-router-dom**
 8. 集成 **axios**
 9. 集成lint-staged、husky、commitlint、eslint、prettier工具链，用于规范代码风格与提高代码质量
+10. 支持 **typescript**
 
 ## 使用
 1. yarn
