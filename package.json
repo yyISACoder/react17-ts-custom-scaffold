@@ -1,5 +1,5 @@
 {
-  "name": "yy-react17-custom-scaffold",
+  "name": "yy-react17-ts-custom-scaffold",
   "version": "1.0.0",
   "description": "基于Webpack5搭建的React17脚手架",
   "scripts": {
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yyISACoder/react17-custom-scaffold"
+    "url": "git+git@github.com:yyISACoder/react17-ts-custom-scaffold.git"
   },
   "keywords": [],
   "author": "Carl",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yyISACoder/react17-custom-scaffold/issues"
+    "url": "https://github.com/yyISACoder/react17-ts-custom-scaffold/issues"
   },
-  "homepage": "https://github.com/yyISACoder/react17-custom-scaffold#readme",
+  "homepage": "https://github.com/yyISACoder/react17-ts-custom-scaffold#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/plugin-transform-runtime": "^7.15.0",

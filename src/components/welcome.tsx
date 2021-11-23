@@ -7,7 +7,7 @@ import avatar from '../assets/images/avatar.jpg'
 
 const Welcome = ()=>{
   const [welcomeText] = useState<string>('欢迎使用Carl的React17脚手架😉')
-  const [githubLink] = useState<string>('https://github.com/yyISACoder/react17-custom-scaffold')
+  const [githubLink] = useState<string>('https://github.com/yyISACoder/react17-ts-custom-scaffold')
 
   useEffect(()=>{
     const testRequest = async ()=>{
